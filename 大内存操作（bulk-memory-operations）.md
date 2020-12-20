@@ -304,7 +304,7 @@ function onmessage(event) {
 
 边界检查发生于写入之前。
 
-### `memory.fill` instruction
+### `memory.fill`指令
 
 将一个内存区域里面的所有字节设置为给定的字节。
 该指令有一个立即数，用于指定操作的内存，当前必须为0。
